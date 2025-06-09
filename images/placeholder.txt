@@ -1,0 +1,1 @@
+This folder stores visualization images generated from the notebook.
